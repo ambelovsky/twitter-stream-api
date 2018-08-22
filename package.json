@@ -5,7 +5,7 @@
   "main": "lib/main.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:trygve-lie/twitter-stream-api.git"
+    "url": "git@github.com:ambelovsky/twitter-stream-api.git"
   },
   "bugs": {
     "url": "https://github.com/trygve-lie/twitter-stream-api/issues"
